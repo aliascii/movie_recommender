@@ -19,10 +19,15 @@ body {
     background-color: lavender;
 }
 
+label {
+    position: absolute;
+    left: 30%;
+}
+
 /* Changing the style by accessing the class attribute of tag . */
 
 .input-placeholder {
-    max-width: 300px;
+    max-width: 100px;
     background-color: rebeccapurple;
 }
 
